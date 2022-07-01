@@ -1,0 +1,1 @@
+alert("Thank you for attempting to sign up but sadly this feautre is currently unavailabe, We'll fix this right away!")
